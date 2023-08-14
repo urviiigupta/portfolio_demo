@@ -7,7 +7,8 @@
     margin: 0;
     padding: 0;
    color: #ffffff;
-    background-color:black;
+    /* background-color:black; */
+    background-color: rgb(32, 32, 32);
     font-family: 'Noto Sans Vithkuqi', sans-serif;
  }
 
@@ -17,7 +18,8 @@
     font-weight: 500;
     font-size: 16px;
     color:#00ADB5;
-    background-color: black;
+    /* background-color: black; */
+    background-color: rgb(32, 32, 32);
     text-decoration: none;
  }
 
@@ -30,7 +32,8 @@ header
     margin: 0px;
     padding-left: 20px;
 
-    background-color: black;
+    /* background-color: black; */
+    background-color: rgb(32, 32, 32);
     border:none;
    
 }
@@ -40,13 +43,15 @@ header
     cursor: pointer;
     height:80px;
     margin-left: 20px;
-    background-color: black;
+    /* background-color: black; */
+    background-color: rgb(32, 32, 32);
 
 }
 
 ul
 {
-    background-color: black;
+    /* background-color: black; */
+    background-color: rgb(32, 32, 32);
 }
 
 .nav_links{
@@ -187,14 +192,16 @@ button
     background-color:#00ADB5;
     border: none;
     border-radius: 20px;
-    box-shadow: 10px 10px 20px rgb(108, 109, 110);
+    /* box-shadow: 10px 10px 20px rgb(108, 109, 110); */
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
     transition: 0.2sec;
     
 
 }
 
 .po:hover{
-    box-shadow: 5px 5px 5px rgb(89, 90, 90);
+    /* box-shadow: 5px 5px 5px rgb(89, 90, 90); */
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
 }
 
 .i
@@ -229,15 +236,16 @@ button
 {
     padding:10px;
     width:100%;
-    height: 200px;
-    background-color: rgb(32, 32, 32);
+    height: 210px;
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(24, 24, 24);
     border: none;
     border-radius: 10px 10px 0px 0px;
     
 }
 .foot
 {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(24, 24, 24);
 }
 
 .pl
@@ -259,7 +267,8 @@ opacity:100;
 }
 .k
 {
-    background-color: rgb(32, 32, 32);
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(24, 24, 24);
     height: 100px;
     position: absolute;
     margin-top: 10px;
@@ -268,7 +277,8 @@ opacity:100;
 
 .idk
 {
-    background-color: rgb(32, 32, 32);
+    /* background-color: rgb(32, 32, 32); */
+    background-color: rgb(24, 24, 24);
     position: absolute;
     margin-top: 45px;
     margin-left: 39%;
@@ -278,17 +288,22 @@ opacity:100;
 {
     display: inline-flex;
     margin-left: 70%;
+    /* margin-bottom: 10%; */
     list-style: none;
-    background-color: rgb(32, 32, 32); 
+    /* background-color: rgb(32, 32, 32);  */
+    background-color: rgb(24, 24, 24);
     color:#00FFF5;
 }
 
 .lasttt
 {
-    background-color: rgb(32, 32, 32); 
+    /* background-color: rgb(32, 32, 32);  */
+    background-color: rgb(24, 24, 24);
+    /* background-color: red; */
     color:#00FFF5;
     position: relative;
-    margin-top: 50px;
+    /* margin-top: 50px; */
+    /* margin-bottom: -5px; */
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 0px;
